@@ -1,2 +1,2 @@
 # Space-Reaper
-It is a simple JS game, made by me as a self-project!
+It is a simple JS game, that involves dodging and shooting the enemies while moving forward.
